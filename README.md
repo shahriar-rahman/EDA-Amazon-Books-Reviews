@@ -1,46 +1,58 @@
-# EDA Civil Engineering Concrete Dataset 
+# EDA Amazon Books Reviews
 ==============================
 
-### An Exploratory Analysis of the characteristic properties of Concrete Using a Civil Engineering Dataset. 
+### An exploratory analysis of the Amazon Book Reviews.
 
 Project Organization
 ------------
 
     ├── LICENSE
-    ├── Makefile          				<- Makefile with commands 
+    ├── Makefile          				<- Makefile with commands.
     ├── README.md             	<- The top-level README for developers using this project.
     ├── data
 	|
-    │
 	|
-    ├── features                <- Scripts to construct a more readable features
-    │
+    ├── features                		<- Set of files to construct a more readable and useable data.
+	|   |── data_filtering.py		<- Script that filters through the data and keeps important features.
+	|   |── data_processing.py   <- File where data is cleaned and visually analyzed for its distribution.
+	|   |── data_inspection.py    <- Script to observe and search for patterns and relationship among various features.
+	|   └── nlp.py                     <- Text from the review features are processed and analyzed for better intuition.
+    │	 
 	|
-    ├── figures            	<- Generated graphics and figures to be used in reporting
+    ├── figures            				<- Generated graphics and figures to be used in reporting (includes IDE and Notebooks generated graphs).
     │    				     
     │
-    ├── notebooks          	<- Optional script for Jupyter Notebooks for better visualization
+    ├── notebooks          			<- Additional script for Jupyter Notebooks for better visualization.
     │
 	│
-    ├── requirements.txt    	<- The requirements file for reproducing the analysis environment, e.g.
-    │                         				generated with `pip freeze > requirements.txt`
+    ├── requirements.txt    		<- The requirements file for reproducing the analysis environment, e.g.
+    │                         				    generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           	<- makes project pip installable (pip install -e .) so src can be imported
+    ├── setup.py           			<- makes project pip installable (pip install -e .) so src can be imported
 	|
     │
 	|	
-    ├── visualization           <- Scripts to create exploratory and results oriented visualizations
-    │ 
+    ├── visualization           		<- Create exploratory and results oriented visualizations
+	|   |── analysis_charts.py		<- Script to better facilitate abstractions for generating simple graphs.
+	|   └── mining_charts.py		<- Can be used to generate a more specific type of graph to be utilized during data inspection.
     │
-    └── tox.ini            	<- tox file with settings for running tox; see tox.readthedocs.io
+    └── tox.ini            				<- tox file with settings for running tox; see tox.readthedocs.io
 
 --------
 
 ## Modules Required:
 • pandas 2.0.0
 
+• plotly 5.15.0
+
 • missingno 0.5.2
+
+• vaderSentiment 3.3.2
+
+• spacy 3.5.3
 
 • matplotlib 3.7.1
 
 • seaborn 0.12.2
+
+• wordcloud 1.9.2
