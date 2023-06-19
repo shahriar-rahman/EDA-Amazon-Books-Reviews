@@ -9,7 +9,7 @@ among a plethora of features available within the acquired data. A thorough anal
 multitude of tools and package using Python so that a set of statistical and/or machine learning models can 
 be applied to accomplish better generalization.
 
-![alt text]([https://github.com/shahriar-rahman/Web-Scraping-Audible-Using-Selenium-Webdriver/blob/main/img/Audible_screenshot.PNG](https://github.com/shahriar-rahman/EDA-Amazon-Books-Reviews/blob/main/img/img1.JPG)
+![alt text](https://github.com/shahriar-rahman/EDA-Amazon-Books-Reviews/blob/main/img/img1.JPG)
 
 Project Organization
 ------------
