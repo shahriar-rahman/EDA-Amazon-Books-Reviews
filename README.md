@@ -40,7 +40,7 @@ Project Organization
 	|
     │
 	|	
-    ├── visualization           		<- Create exploratory and results oriented visualizations
+    ├── visualization           		<- Create exploratory and results oriented visualizations.
 	|   |── analysis_charts.py		<- Script to better facilitate abstractions for generating simple graphs.
 	|   └── mining_charts.py		<- Can be used to generate a more specific type of graph to be utilized during data inspection.
     │
