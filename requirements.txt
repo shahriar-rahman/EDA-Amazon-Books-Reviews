@@ -2,6 +2,7 @@
 -e .
 
 # Package Requirements
+python 3.11
 os
 sys
 pandas 2.0.0
