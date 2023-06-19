@@ -4,9 +4,9 @@
 ### An exploratory analysis of the Amazon Book Reviews.
 
 ## Introduction
-The general idea behind this research to identify and establish a pattern or a set of patterns and relationships 
+The general idea behind this research is to identify and establish a pattern or a set of patterns and relationships 
 among a plethora of features available within the acquired data. A thorough analysis is performed by using a 
-multitude of tools and package using Python so that a set of statistical and/or machine learning models can 
+multitude of tools and packages using Python so that a set of statistical and/or machine learning models can 
 be applied to accomplish better generalization.
 
 ![alt text](https://github.com/shahriar-rahman/EDA-Amazon-Books-Reviews/blob/main/img/img1.JPG)
