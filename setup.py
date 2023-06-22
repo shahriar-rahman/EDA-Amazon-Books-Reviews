@@ -6,5 +6,5 @@ setup(
     version='0.1.0',
     description='An exploratory analysis of the Amazon Book Reviews. ',
     author='Shahriar',
-    license='CC0: Public Domain',
+    license='MIT License',
 )
