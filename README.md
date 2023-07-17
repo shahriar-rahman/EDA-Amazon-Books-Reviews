@@ -1,7 +1,6 @@
 # EDA Amazon Books Reviews
 ===========================================================================
-
-### ◘ An exploratory analysis of the Amazon Book Reviews. An expansion to this project is carried out using Collaborative Filtering models from the research: [A Comparative Analysis of Amazon Book Ratings Using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering/edit/main/README.md)
+An exploratory analysis of the Amazon Book Reviews. An expansion to this project is carried out using Collaborative Filtering models from the research: [A Comparative Analysis of Amazon Book Ratings Using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering/edit/main/README.md)
 
 ![alt text](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering/blob/main/img/amazon%20(13).jpg)
 
