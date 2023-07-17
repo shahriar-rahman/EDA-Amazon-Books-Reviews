@@ -1,7 +1,7 @@
 # EDA Amazon Books Reviews
-==============================
+===========================================================================
 
-### An exploratory analysis of the Amazon Book Reviews.
+### An exploratory analysis of the Amazon Book Reviews. An expansion to this project is carried out using Collaborative Filtering models from the research: [A Comparative Analysis of Amazon Book Ratings Using Collaborative Filtering](https://github.com/shahriar-rahman/A-Comparative-Analysis-of-Amazon-Book-Ratings-using-Collaborative-Filtering/edit/main/README.md)
 
 ## Introduction
 The general idea behind this research is to identify and establish a pattern or a set of patterns and relationships 
@@ -9,7 +9,11 @@ among a plethora of features available within the acquired data. A thorough anal
 multitude of tools and packages using Python so that a set of statistical and/or machine learning models can 
 be applied to accomplish better generalization.
 
+</br></br>
+
 ![alt text](https://github.com/shahriar-rahman/EDA-Amazon-Books-Reviews/blob/main/img/img1.JPG)
+
+</br></br>
 
 Project Organization
 ------------
@@ -48,18 +52,19 @@ Project Organization
 
 --------
 
+</br></br>
+
 ## Modules Required:
-• pandas 2.0.0
+* pandas 2.0.0
+* plotly 5.15.0
+* missingno 0.5.2
+* vaderSentiment 3.3.2
+* spacy 3.5.3
+* matplotlib 3.7.1
 
-• plotly 5.15.0
+</br></br>
 
-• missingno 0.5.2
-
-• vaderSentiment 3.3.2
-
-• spacy 3.5.3
-
-• matplotlib 3.7.1
+===========================================================================
 
 • seaborn 0.12.2
 
